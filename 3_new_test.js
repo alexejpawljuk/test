@@ -1,1 +1,1 @@
-consol.log("Test");
+consol.log("Test: 3");
